@@ -1,1 +1,0 @@
-# Write Frontend Dockerfile here
