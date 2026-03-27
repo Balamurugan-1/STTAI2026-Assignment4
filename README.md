@@ -56,7 +56,7 @@ You are provided with a dataset in the `Dataset` folder:
 
 ---
 
-### Task 2: API & Frontend Development (4 Marks)
+### Task 2: API & Frontend Development (5 Marks)
 **Goal:** Build a user-facing dashboard for real estate agents.
 *   **Backend (FastAPI):** Expose your best tuned model via a FastAPI app. 
     *   Initialize `app = FastAPI()`.
@@ -90,7 +90,7 @@ You are provided with a dataset in the `Dataset` folder:
 
 ---
 
-### Task 4: Cloud Deployment via Hugging Face Spaces (5 Marks)
+### Task 4: Cloud Deployment via Hugging Face Spaces (4 Marks)
 **Goal:** Show stakeholders a live, working distributed prototype.
 *   Because you have separated your application into two microservices, you will deploy them as two separate Docker Spaces on Hugging Face:
     *   **Backend Deployment (FastAPI):** Deploy your FastAPI backend using a **Docker Space template** on Hugging Face. The Space will build your backend container and give you a public API URL.
