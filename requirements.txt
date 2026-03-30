@@ -1,9 +1,7 @@
-﻿fastapi
 streamlit
 pandas
 scikit-learn
 optuna
-requests
-uvicorn
 jupyter
 matplotlib
+trackio
